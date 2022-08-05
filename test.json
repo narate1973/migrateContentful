@@ -1,0 +1,70 @@
+[
+  {
+    "sys": {
+      "id": "2lOrAyIdWVod3y8Dtkejqs",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "SupportOperatorBanner"
+        }
+      },
+      "revision": 10,
+      "createdAt": "2019-10-15T03:00:55.731Z",
+      "updatedAt": "2022-05-03T08:52:59.124Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "weekdayStartingHour": "09:30",
+      "weekendStartingHour": "10:00",
+      "weekdayEndingHour": "18:30",
+      "weekendEndingHour": "19:00",
+      "onOpsHoursTarget": "https://m.me/fastworkco",
+      "offOpsHoursTarget": "https://m.me/fastworkco",
+      "onOpsHoursBanner": {
+        "sys": {
+          "id": "2BwPxrsvhirhvX7vkmZ0dI",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": None,
+          "revision": 1,
+          "createdAt": "2019-11-13T07:50:44.019Z",
+          "updatedAt": "2019-11-13T07:50:44.019Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "CS banner [TH]",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/TH-Contact_3x.png"
+          }
+        }
+      },
+      "offOpsHoursBanner": {
+        "sys": {
+          "id": "2BwPxrsvhirhvX7vkmZ0dI",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": None,
+          "revision": 1,
+          "createdAt": "2019-11-13T07:50:44.019Z",
+          "updatedAt": "2019-11-13T07:50:44.019Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "CS banner [TH]",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/TH-Contact_3x.png"
+          }
+        }
+      }
+    }
+  }
+]

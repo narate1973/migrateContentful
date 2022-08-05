@@ -3,9 +3,7 @@ import json
 import requests
 import urllib.request
 
-current_directory = os.getcwd()
-execute_foler = current_directory + '/execute'
-dir_list = os.listdir(execute_foler)
+
 
 def downloadImage(imagePath, imageUrl):
     with open(image_name, 'wb') as handle:
@@ -21,7 +19,10 @@ def downloadImage(imagePath, imageUrl):
 
             handle.write(block) 
 
-def mainDef():
+def mainDef(executePath):
+    current_directory = os.getcwd()
+    execute_foler = current_directory + '/' + executePath
+    dir_list = os.listdir(execute_foler)
     for folder in dir_list:
         image_file = open(execute_foler + '/' + folder + '/images.json')
         json_file = json.load(image_file)
@@ -36,4 +37,4 @@ def mainDef():
 
 
 if __name__ == "__main__":
-    mainDef()
+    mainDef('execute-id')

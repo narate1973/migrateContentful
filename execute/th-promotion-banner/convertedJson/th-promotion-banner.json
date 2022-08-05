@@ -1,0 +1,242 @@
+[
+  {
+    "sys": {
+      "id": "3lxec5Qk4tZ1pqXsbRkREj",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "bannerPromotion"
+        }
+      },
+      "revision": 1,
+      "createdAt": "2022-07-31T17:00:03.432Z",
+      "updatedAt": "2022-07-31T17:00:03.432Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "KTC aug-dec22",
+      "link": "/redirect?url=https://fastwork.co/promotion",
+      "appLink": "https://fastwork.co/promotion",
+      "appDeeplink": null,
+      "appLinkType": "IN_APP",
+      "state": ["MOBILE", "OLD_BUYER", "NEW_BUYER", "NOT_LOGIN", "FREELANCE"],
+      "imageMobile": {
+        "sys": {
+          "id": "6XttpQCnsjKZ0c4u42rX94",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2022-07-27T02:56:00.190Z",
+          "updatedAt": "2022-07-27T02:56:00.190Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "KTC-Resize-Banner Home-banner",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/KTC-Resize-Banner_Home-banner.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "sys": {
+      "id": "3A069OsOES9TAFHoCca8Aw",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "bannerPromotion"
+        }
+      },
+      "revision": 2,
+      "createdAt": "2022-06-28T07:09:08.650Z",
+      "updatedAt": "2022-06-28T07:14:21.299Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "warning",
+      "link": "/redirect?url=https://www.facebook.com/fastworkco/posts/pfbid0VaZZJVkDq7xJqcQUrcp1SBrxUdfpvDwK712qtQQABCZE68HLWmFLpjqMbdKfXHZ8l",
+      "appLink": "https://www.facebook.com/fastworkco/posts/pfbid0VaZZJVkDq7xJqcQUrcp1SBrxUdfpvDwK712qtQQABCZE68HLWmFLpjqMbdKfXHZ8l",
+      "appDeeplink": null,
+      "appLinkType": "EXT_APP",
+      "state": ["FREELANCE", "MOBILE", "NEW_BUYER", "OLD_BUYER", "NOT_LOGIN"],
+      "imageMobile": {
+        "sys": {
+          "id": "6twE9NVvQQzLIiqsmfmfyS",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2022-06-28T07:07:41.081Z",
+          "updatedAt": "2022-06-28T07:07:41.081Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "notice-\u0e41\u0e2d\u0e1a\u0e2d\u0e49\u0e32\u0e07\u0e0a\u0e37\u0e48\u0e2dfw Home-banner",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/notice-_________________________________fw_Home-banner.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "sys": {
+      "id": "1sLq2yayqDkbxIRywvKh21",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "bannerPromotion"
+        }
+      },
+      "revision": 14,
+      "createdAt": "2021-01-14T10:21:58.661Z",
+      "updatedAt": "2022-06-16T10:48:07.622Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "Push to talk",
+      "link": "/redirect?url=https%3A%2F%2Ffastwork.co%2Fblog%2Fpush-to-talk%2F",
+      "appLink": "https://fastwork.co/blog/push-to-talk/",
+      "appDeeplink": null,
+      "appLinkType": "IN_APP",
+      "state": ["MOBILE", "OLD_BUYER", "NEW_BUYER", "FREELANCE"],
+      "imageMobile": {
+        "sys": {
+          "id": "6ENEGk1MnMUGOzTFGlSBRD",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 3,
+          "createdAt": "2021-06-21T13:27:06.368Z",
+          "updatedAt": "2021-11-11T10:20:37.291Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "edit put to talk Home banner Msite",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/edit-put-to-talk_Home-banner_819x429.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "sys": {
+      "id": "5vdzGw9r82hiZZq5hCNEog",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "bannerPromotion"
+        }
+      },
+      "revision": 13,
+      "createdAt": "2020-11-23T03:55:32.702Z",
+      "updatedAt": "2022-06-16T10:46:35.175Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "add Line FW",
+      "link": "/redirect?url=https%3A%2F%2Flin.ee%2FCAnH9Gf",
+      "appLink": "https://lin.ee/CAnH9Gf",
+      "appDeeplink": null,
+      "appLinkType": "EXT_APP",
+      "state": ["MOBILE", "OLD_BUYER", "NEW_BUYER", "NOT_LOGIN", "FREELANCE"],
+      "imageMobile": {
+        "sys": {
+          "id": "1DCUsIEVMKW3w3SSeUtJeZ",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2021-11-25T07:22:17.871Z",
+          "updatedAt": "2021-11-25T07:22:17.871Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "AW1-FW-alert-Home-819x429",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/AW1-FW-alert-Home-819x429.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "sys": {
+      "id": "40nAmdcn3y2dpylD1pJc88",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "bannerPromotion"
+        }
+      },
+      "revision": 20,
+      "createdAt": "2020-05-21T04:39:55.262Z",
+      "updatedAt": "2022-06-16T10:44:21.946Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "_DM_2020-05-21-Banner-Milestone",
+      "link": "/redirect?url=https://fastwork.co/blog/milestone-payment/",
+      "appLink": "https://fastwork.co/blog/milestone-payment/",
+      "appDeeplink": null,
+      "appLinkType": "IN_APP",
+      "state": ["NOT_LOGIN", "NEW_BUYER", "OLD_BUYER", "FREELANCE", "MOBILE"],
+      "imageMobile": {
+        "sys": {
+          "id": "2hrNS4wM7ObLHp75FuCJ54",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2020-06-01T10:56:21.185Z",
+          "updatedAt": "2020-06-01T10:56:21.185Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "DM 2020-05-20-Banner-Milestone-HB desktop",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/_DM_2020-05-20-Banner-Milestone-HB_desktop.jpg"
+          }
+        }
+      }
+    }
+  }
+]

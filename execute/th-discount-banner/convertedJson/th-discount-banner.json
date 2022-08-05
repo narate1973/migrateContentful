@@ -1,0 +1,331 @@
+[
+  {
+    "sys": {
+      "id": "632dSdbvtdgraZcfnPCdcg",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "DiscountBanner"
+        }
+      },
+      "revision": 3,
+      "createdAt": "2022-07-18T02:33:28.593Z",
+      "updatedAt": "2022-07-18T02:36:09.162Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "New PA",
+      "link": "https://fastwork.co/personal-assistant?source=discountbanner",
+      "image": {
+        "sys": {
+          "id": "1hf6YhciVMFDgwugxgXj5W",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2022-07-18T02:31:27.242Z",
+          "updatedAt": "2022-07-18T02:31:27.242Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "PA-Banner 786x194",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/PA-Banner_786x194.jpg"
+          }
+        }
+      },
+      "state": ["NEW_BUYER", "OLD_BUYER", "MOBILE", "NOT_LOGIN"],
+      "appLink": "https://fastwork.co/personal-assistant?source=discountbanner",
+      "appLinkType": "IN_APP"
+    }
+  },
+  {
+    "sys": {
+      "id": "7u4ZvRAOHU1uDn4MchfF5T",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "DiscountBanner"
+        }
+      },
+      "revision": 4,
+      "createdAt": "2021-11-23T11:20:13.751Z",
+      "updatedAt": "2022-05-06T11:06:40.352Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "FW guarantee",
+      "link": "https://fastwork.co/guarantee",
+      "image": {
+        "sys": {
+          "id": "649VRRu50LV43IA9iKygYi",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2021-11-23T11:18:50.206Z",
+          "updatedAt": "2021-11-23T11:18:50.206Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "6-guarantee-discount-786x194",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/6-guarantee-discount-786x194.jpg"
+          }
+        }
+      },
+      "state": ["NOT_LOGIN"],
+      "appLink": "https://fastwork.co/guarantee",
+      "appLinkType": "IN_APP"
+    }
+  },
+  {
+    "sys": {
+      "id": "39JsXvaNfOu9HID1K35BJn",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "DiscountBanner"
+        }
+      },
+      "revision": 6,
+      "createdAt": "2021-11-25T12:38:42.209Z",
+      "updatedAt": "2022-03-07T15:27:33.975Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "add line fw",
+      "link": "/redirect?url=https%3A%2F%2Flin.ee%2FCAnH9Gf",
+      "image": {
+        "sys": {
+          "id": "3i1XdoYPAT5BZf1GvCRRNe",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2021-11-25T12:38:09.006Z",
+          "updatedAt": "2021-11-25T12:38:09.006Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "AW9-FW-alert-Discount - 786x194",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/AW9-FW-alert-Discount_-_786x194.jpg"
+          }
+        }
+      },
+      "state": ["MOBILE", "FREELANCE", "NEW_BUYER", "OLD_BUYER", "NOT_LOGIN"],
+      "appLink": "https://lin.ee/CAnH9Gf",
+      "appLinkType": "EXT_APP"
+    }
+  },
+  {
+    "sys": {
+      "id": "5AWeyr5fTkqi2l9P9rAIbF",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "DiscountBanner"
+        }
+      },
+      "revision": 11,
+      "createdAt": "2021-11-23T11:42:29.498Z",
+      "updatedAt": "2022-03-07T15:20:15.965Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "Personal Assistant ",
+      "link": "/personal-assistant",
+      "image": {
+        "sys": {
+          "id": "5N3XUG3xLHJOAnLGIyPicd",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2021-11-23T11:42:16.279Z",
+          "updatedAt": "2021-11-23T11:42:16.279Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "PA-service Discount",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/PA-service_Discount.jpg"
+          }
+        }
+      },
+      "state": ["MOBILE", "FREELANCE", "NEW_BUYER", "OLD_BUYER", "NOT_LOGIN"],
+      "appLink": "https://fastwork.co/personal-assistant",
+      "appLinkType": "EXT_APP"
+    }
+  },
+  {
+    "sys": {
+      "id": "3IWAjrmGBHtYtPNb2eW9lD",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "DiscountBanner"
+        }
+      },
+      "revision": 4,
+      "createdAt": "2021-07-27T08:15:14.278Z",
+      "updatedAt": "2021-11-11T10:18:22.278Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "Push to talk",
+      "link": "/redirect?url=https%3A%2F%2Ffastwork.co%2Fblog%2Fpush-to-talk%2F",
+      "image": {
+        "sys": {
+          "id": "4Ad3Dt0X9tTeFcVUFmDEg",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2021-11-11T10:18:12.638Z",
+          "updatedAt": "2021-11-11T10:18:12.638Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "edit-put-to-talk Discount-banner",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/edit-put-to-talk_Discount-banner.jpg"
+          }
+        }
+      },
+      "state": ["MOBILE", "FREELANCE", "OLD_BUYER", "NEW_BUYER"],
+      "appLink": "https://fastwork.co/blog/push-to-talk/",
+      "appLinkType": "IN_APP"
+    }
+  },
+  {
+    "sys": {
+      "id": "77V67yzpCJtl8wEApa3MTM",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "DiscountBanner"
+        }
+      },
+      "revision": 3,
+      "createdAt": "2020-05-18T03:28:15.144Z",
+      "updatedAt": "2020-08-17T07:37:03.789Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "2.Hire freelancers",
+      "link": "https://slimfaq.com/fastwork-co-bfa21e87-1550-4d30-9cb2-a8eec7a0969e/1818-/7322-",
+      "image": {
+        "sys": {
+          "id": "7E5E9qdoddG381TtzpWaBB",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2020-05-18T03:27:41.458Z",
+          "updatedAt": "2020-05-18T03:27:41.458Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "freelance2-01",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/freelance2-01.png"
+          }
+        }
+      },
+      "state": ["NEW_BUYER", "OLD_BUYER", "MOBILE"],
+      "appLink": "https://slimfaq.com/fastwork-co-bfa21e87-1550-4d30-9cb2-a8eec7a0969e/1818-/7322-",
+      "appLinkType": "IN_APP"
+    }
+  },
+  {
+    "sys": {
+      "id": "6qtHz3pYsNoyBMCphA30hf",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "DiscountBanner"
+        }
+      },
+      "revision": 1,
+      "createdAt": "2020-05-26T03:31:46.946Z",
+      "updatedAt": "2020-05-26T03:31:46.946Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "4.FAQ money freelance",
+      "link": "https://www.fastwork.co/faq/1823/7395",
+      "image": {
+        "sys": {
+          "id": "65AlbtURSrUEL14Dm59Izo",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2020-05-26T03:28:19.434Z",
+          "updatedAt": "2020-05-26T03:28:19.434Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "\u0e40\u0e07\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e02\u0e1e\u0e37\u0e49\u0e19\u0e10\u0e32\u0e19\u0e43\u0e19\u0e01\u0e32\u0e23\u0e15\u0e31\u0e14\u0e22\u0e2d\u0e14\u0e40\u0e07\u0e34\u0e19\u0e04\u0e48\u0e32\u0e08\u0e49\u0e32\u0e07-01",
+          "file": {
+            "url": "https://fastwork-config.s3.ap-southeast-1.amazonaws.com/prod/contentful/image/_______________________________________________________________________________________________________________-01.png"
+          }
+        }
+      },
+      "state": ["MOBILE", "FREELANCE"],
+      "appLink": "https://www.fastwork.co/faq/1823/7395",
+      "appLinkType": "IN_APP"
+    }
+  }
+]
