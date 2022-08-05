@@ -1,0 +1,242 @@
+[
+  {
+    "sys": {
+      "id": "7h2Sh1Kz8vJfhVAEVQGD3X",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "bannerPromotion"
+        }
+      },
+      "revision": 1,
+      "createdAt": "2021-11-11T10:10:36.655Z",
+      "updatedAt": "2021-11-11T10:10:36.655Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "FW guarantee",
+      "link": "https://fastwork.id/guarantee",
+      "appLink": "https://fastwork.id/guarantee",
+      "appDeeplink": null,
+      "appLinkType": "EXT_APP",
+      "state": ["FREELANCE", "MOBILE", "OLD_BUYER", "NEW_BUYER"],
+      "imageMobile": {
+        "sys": {
+          "id": "3pWAcuj9UExJppmv3M26We",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2021-11-11T10:09:29.629Z",
+          "updatedAt": "2021-11-11T10:09:29.629Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "popup-banner-guarantee-ID-819x429 (1)",
+          "file": {
+            "url": "//images.ctfassets.net/fm8byl79je66/3pWAcuj9UExJppmv3M26We/2987a5e16c11a178241a1d7c14555285/popup-banner-guarantee-ID-819x429__1_.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "sys": {
+      "id": "1MJv3jNeFD51IPooRYGc9p",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "bannerPromotion"
+        }
+      },
+      "revision": 1,
+      "createdAt": "2021-11-08T09:06:38.675Z",
+      "updatedAt": "2021-11-08T09:06:38.675Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "dreams come true",
+      "link": "https://fastwork.id/",
+      "appLink": null,
+      "appDeeplink": null,
+      "appLinkType": "EXT_APP",
+      "state": ["NEW_BUYER", "OLD_BUYER", "MOBILE"],
+      "imageMobile": {
+        "sys": {
+          "id": "5OQ4BYJGR6NHDwSJDh6Zq7",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2021-11-08T09:05:38.136Z",
+          "updatedAt": "2021-11-08T09:05:38.136Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "ID-home-banner---dreams-come-true",
+          "file": {
+            "url": "//images.ctfassets.net/fm8byl79je66/5OQ4BYJGR6NHDwSJDh6Zq7/fa6390be8ccdfeecbf1e6b0c79b80bab/ID-home-banner---dreams-come-true.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "sys": {
+      "id": "6zvi1fm5L4fsM4qZZwALl9",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "bannerPromotion"
+        }
+      },
+      "revision": 11,
+      "createdAt": "2019-10-09T11:29:53.954Z",
+      "updatedAt": "2021-08-04T07:13:28.795Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "_ID_2019-10-18-(DM)super-cheap-package_(1)",
+      "link": "/categories",
+      "appLink": null,
+      "appDeeplink": null,
+      "appLinkType": null,
+      "state": ["NEW_BUYER", "NOT_LOGIN"],
+      "imageMobile": {
+        "sys": {
+          "id": "3COCNiPHYNHa7hNJNaZ0h2",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2019-10-18T07:12:07.352Z",
+          "updatedAt": "2019-10-18T07:12:07.352Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "ID 2019-10-18-(DM)super-cheap-package (1)HB-mobile",
+          "file": {
+            "url": "//images.ctfassets.net/fm8byl79je66/3COCNiPHYNHa7hNJNaZ0h2/bfbefaa4bbc59b6413d889529fc90fe7/_ID_2019-10-18-_DM_super-cheap-package__1_HB-mobile.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "sys": {
+      "id": "5qh4i3cmnHNsypQTyARcSK",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "bannerPromotion"
+        }
+      },
+      "revision": 11,
+      "createdAt": "2019-11-29T17:54:28.267Z",
+      "updatedAt": "2021-08-04T07:12:53.085Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "_ID_2020-03-30 Split payment",
+      "link": "/redirect?url=http://bit.ly/FastworkMP",
+      "appLink": "http://bit.ly/FastworkMP",
+      "appDeeplink": null,
+      "appLinkType": "EXT_APP",
+      "state": ["NOT_LOGIN", "NEW_BUYER", "OLD_BUYER", "FREELANCE"],
+      "imageMobile": {
+        "sys": {
+          "id": "39fbkevCIwI3JrSgXXZi7w",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2020-03-30T10:57:18.390Z",
+          "updatedAt": "2020-03-30T10:57:18.390Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "ID 2020-03-27-Split-payment HB-mobile",
+          "file": {
+            "url": "//images.ctfassets.net/fm8byl79je66/39fbkevCIwI3JrSgXXZi7w/4da469e30905b082cdb5296ad6e3ed07/_ID_2020-03-27-Split-payment_HB-mobile.jpg"
+          }
+        }
+      }
+    }
+  },
+  {
+    "sys": {
+      "id": "3dDuzFoBHSOkeSSok5iTlB",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "bannerPromotion"
+        }
+      },
+      "revision": 2,
+      "createdAt": "2020-05-11T09:32:25.219Z",
+      "updatedAt": "2021-08-04T07:12:20.616Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "ID new feature homebanner",
+      "link": "/redirect?url=https%3A%2F%2Ffastwork.id%2Fblog%2Fkhusus-untuk-freelancer%2F%20",
+      "appLink": "/redirect?url=https%3A%2F%2Ffastwork.id%2Fblog%2Fkhusus-untuk-freelancer%2F%20",
+      "appDeeplink": null,
+      "appLinkType": "EXT_APP",
+      "state": ["FREELANCE", "MOBILE"],
+      "imageMobile": {
+        "sys": {
+          "id": "1lipXn1g128Irl5aVLLiYL",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2020-05-11T09:31:19.185Z",
+          "updatedAt": "2020-05-11T09:31:19.185Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "ID new feature homebanner-01",
+          "file": {
+            "url": "//images.ctfassets.net/fm8byl79je66/1lipXn1g128Irl5aVLLiYL/d18c79f2c5fb2180f48cf477563eb011/ID_new_feature_homebanner-01.jpg"
+          }
+        }
+      }
+    }
+  }
+]

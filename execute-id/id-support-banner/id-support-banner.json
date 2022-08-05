@@ -1,0 +1,70 @@
+[
+  {
+    "sys": {
+      "id": "4xurTzb57HNWqeGEAzjWwZ",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "SupportOperatorBanner"
+        }
+      },
+      "revision": 7,
+      "createdAt": "2019-10-16T11:31:04.209Z",
+      "updatedAt": "2022-05-03T08:52:54.363Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "weekdayStartingHour": "09:00",
+      "weekendStartingHour": "10:00",
+      "weekdayEndingHour": "17:59",
+      "weekendEndingHour": "15:00",
+      "onOpsHoursTarget": "https://m.me/fastworkid",
+      "offOpsHoursTarget": "https://m.me/fastworkid",
+      "onOpsHoursBanner": {
+        "sys": {
+          "id": "6Pr239cxHQ4z8QIbshzhst",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 2,
+          "createdAt": "2019-10-16T11:28:05.125Z",
+          "updatedAt": "2022-05-05T10:17:25.104Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "CS Banner [ID]",
+          "file": {
+            "url": "//images.ctfassets.net/fm8byl79je66/6Pr239cxHQ4z8QIbshzhst/a7592b6774d40ecc94f95484e4824306/cs-indo.png"
+          }
+        }
+      },
+      "offOpsHoursBanner": {
+        "sys": {
+          "id": "6Pr239cxHQ4z8QIbshzhst",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 2,
+          "createdAt": "2019-10-16T11:28:05.125Z",
+          "updatedAt": "2022-05-05T10:17:25.104Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "CS Banner [ID]",
+          "file": {
+            "url": "//images.ctfassets.net/fm8byl79je66/6Pr239cxHQ4z8QIbshzhst/a7592b6774d40ecc94f95484e4824306/cs-indo.png"
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "sys": {
+      "id": "3XELRI3m4E9j2Ujy5PJPIt",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "DiscountBanner"
+        }
+      },
+      "revision": 11,
+      "createdAt": "2019-11-05T03:59:41.004Z",
+      "updatedAt": "2022-01-11T10:37:48.198Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "1.Potongan komisi 10%",
+      "link": "/promotion",
+      "image": {
+        "sys": {
+          "id": "4uoqVzu1FfhU8V9cJRLoki",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2020-02-03T06:32:02.450Z",
+          "updatedAt": "2020-02-03T06:32:02.450Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "ID 2020-02-03 promo 10% commission-01",
+          "file": {
+            "url": "//images.ctfassets.net/fm8byl79je66/4uoqVzu1FfhU8V9cJRLoki/383f942877fe9baff4bdc4f20f583c17/_ID_2020-02-03_promo_10__commission-01.png"
+          }
+        }
+      },
+      "state": ["NOT_LOGIN", "NEW_BUYER", "OLD_BUYER", "FREELANCE"],
+      "appLink": "https://fastwork.id/promotion",
+      "appLinkType": "IN_APP"
+    }
+  },
+  {
+    "sys": {
+      "id": "7pD9FPlc3CN7hKB6QtvVOA",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "DiscountBanner"
+        }
+      },
+      "revision": 4,
+      "createdAt": "2019-11-05T04:02:27.833Z",
+      "updatedAt": "2020-02-04T08:32:47.826Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "3.Belum Nemu yang Cocok? Kami Bantu Cari Freelancer Terbaik untuk Anda.",
+      "link": "/promotion",
+      "image": {
+        "sys": {
+          "id": "Enx5AdtgumpQ5FPJKQu17",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2019-11-05T04:02:20.499Z",
+          "updatedAt": "2019-11-05T04:02:20.499Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "ID 2019-10-04 resize promo-03",
+          "file": {
+            "url": "//images.ctfassets.net/fm8byl79je66/Enx5AdtgumpQ5FPJKQu17/e1a01d5b3fb4b7dd6c9996f43cc28253/_ID_2019-10-04_resize_promo-03.png"
+          }
+        }
+      },
+      "state": ["NOT_LOGIN", "NEW_BUYER", "OLD_BUYER", "FREELANCE"],
+      "appLink": "https://fastwork.id/promotion",
+      "appLinkType": "IN_APP"
+    }
+  },
+  {
+    "sys": {
+      "id": "Pcsoh7jWhlVTKQQ0tVPaK",
+      "type": "Entry",
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+      },
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "DiscountBanner"
+        }
+      },
+      "revision": 8,
+      "createdAt": "2019-11-05T04:01:23.926Z",
+      "updatedAt": "2020-02-04T08:32:33.176Z",
+      "locale": "th-TH"
+    },
+    "fields": {
+      "title": "2.Butuh freelancer tapi tidak mau bayar full di muka?",
+      "link": "http://bit.ly/FWCicilan",
+      "image": {
+        "sys": {
+          "id": "z17W9VSm9fp7aRPqjcbkZ",
+          "type": "Asset",
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "fm8byl79je66" }
+          },
+          "contentType": null,
+          "revision": 1,
+          "createdAt": "2020-02-03T06:32:54.889Z",
+          "updatedAt": "2020-02-03T06:32:54.889Z",
+          "locale": "th-TH"
+        },
+        "fields": {
+          "title": "ID 2020-02-03 promo 10% commission-02",
+          "file": {
+            "url": "//images.ctfassets.net/fm8byl79je66/z17W9VSm9fp7aRPqjcbkZ/756c2d02b0829bbfc603a648079505c6/_ID_2020-02-03_promo_10__commission-02.png"
+          }
+        }
+      },
+      "state": ["NOT_LOGIN", "NEW_BUYER", "OLD_BUYER", "FREELANCE"],
+      "appLink": "http://bit.ly/FWCicilan",
+      "appLinkType": "EXT_APP"
+    }
+  }
+]
